@@ -10,8 +10,5 @@
         <module name="Helloworld" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="Helloworld" target="14" />
-    </bytecodeTargetLevel>
   </component>
 </project>
